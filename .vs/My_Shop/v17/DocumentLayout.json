@@ -33,6 +33,10 @@
           "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Default.cshtml",
@@ -42,8 +46,7 @@
               "RelativeToolTip": "My_Shop\\Views\\Shared\\Components\\Brands\\Default.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-25T16:23:28.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T16:23:28.96Z"
             },
             {
               "$type": "Document",
@@ -55,12 +58,7 @@
               "RelativeToolTip": "My_Shop\\Repository\\Components\\BrandsViewComponent.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T16:21:53.854Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "WhenOpened": "2025-06-25T16:21:53.854Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "My_Shop\\Views\\Shared\\Components\\Categories\\Default.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-25T16:15:29.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T16:15:29.824Z"
             },
             {
               "$type": "Document",
@@ -85,8 +82,7 @@
               "RelativeToolTip": "My_Shop\\Repository\\Components\\CategoriesViewComponent.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T15:53:15.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-25T15:53:15.719Z"
             },
             {
               "$type": "Document",
@@ -96,7 +92,7 @@
               "RelativeDocumentMoniker": "My_Shop\\Views\\Shared\\_SidebarPartial.cshtml",
               "ToolTip": "C:\\asp.net\\My_Shop\\My_Shop\\Views\\Shared\\_SidebarPartial.cshtml",
               "RelativeToolTip": "My_Shop\\Views\\Shared\\_SidebarPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-25T15:46:44.316Z",
               "EditorCaption": ""
