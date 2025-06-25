@@ -142,3 +142,4 @@ C:\asp.net\My_Shop\My_Shop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Secur
 C:\asp.net\My_Shop\My_Shop\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\asp.net\My_Shop\My_Shop\obj\Debug\net8.0\My_Shop.csproj.AssemblyReference.cache
 C:\asp.net\My_Shop\My_Shop\obj\Debug\net8.0\My_Shop.csproj.Up2Date
+C:\asp.net\My_Shop\My_Shop\obj\Debug\net8.0\My_Shop.sourcelink.json
