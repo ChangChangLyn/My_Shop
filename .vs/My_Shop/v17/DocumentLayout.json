@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\asp.net\\My_Shop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5E7ECB5-FE6D-45DC-B86B-D8180A7B1868}|My_Shop\\My_Shop.csproj|c:\\asp.net\\my_shop\\my_shop\\views\\shared\\_sidebarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5E7ECB5-FE6D-45DC-B86B-D8180A7B1868}|My_Shop\\My_Shop.csproj|solutionrelative:my_shop\\views\\shared\\_sidebarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E5E7ECB5-FE6D-45DC-B86B-D8180A7B1868}|My_Shop\\My_Shop.csproj|c:\\asp.net\\my_shop\\my_shop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5E7ECB5-FE6D-45DC-B86B-D8180A7B1868}|My_Shop\\My_Shop.csproj|solutionrelative:my_shop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5E7ECB5-FE6D-45DC-B86B-D8180A7B1868}|My_Shop\\My_Shop.csproj|c:\\asp.net\\my_shop\\my_shop\\views\\shared\\components\\brands\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E5E7ECB5-FE6D-45DC-B86B-D8180A7B1868}|My_Shop\\My_Shop.csproj|solutionrelative:my_shop\\views\\shared\\components\\brands\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E5E7ECB5-FE6D-45DC-B86B-D8180A7B1868}|My_Shop\\My_Shop.csproj|c:\\asp.net\\my_shop\\my_shop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E7ECB5-FE6D-45DC-B86B-D8180A7B1868}|My_Shop\\My_Shop.csproj|solutionrelative:my_shop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5E7ECB5-FE6D-45DC-B86B-D8180A7B1868}|My_Shop\\My_Shop.csproj|c:\\asp.net\\my_shop\\my_shop\\repository\\components\\brandsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5E7ECB5-FE6D-45DC-B86B-D8180A7B1868}|My_Shop\\My_Shop.csproj|solutionrelative:my_shop\\repository\\components\\brandsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E7ECB5-FE6D-45DC-B86B-D8180A7B1868}|My_Shop\\My_Shop.csproj|c:\\asp.net\\my_shop\\my_shop\\views\\shared\\_sidebarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5E7ECB5-FE6D-45DC-B86B-D8180A7B1868}|My_Shop\\My_Shop.csproj|solutionrelative:my_shop\\views\\shared\\_sidebarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5E7ECB5-FE6D-45DC-B86B-D8180A7B1868}|My_Shop\\My_Shop.csproj|c:\\asp.net\\my_shop\\my_shop\\views\\shared\\components\\categories\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -30,23 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\asp.net\\My_Shop\\My_Shop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "My_Shop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\asp.net\\My_Shop\\My_Shop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "My_Shop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T16:01:45.743Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\asp.net\\My_Shop\\My_Shop\\Views\\Shared\\Components\\Brands\\Default.cshtml",
-              "RelativeDocumentMoniker": "My_Shop\\Views\\Shared\\Components\\Brands\\Default.cshtml",
-              "ToolTip": "C:\\asp.net\\My_Shop\\My_Shop\\Views\\Shared\\Components\\Brands\\Default.cshtml",
-              "RelativeToolTip": "My_Shop\\Views\\Shared\\Components\\Brands\\Default.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-25T16:23:28.96Z"
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\asp.net\\My_Shop\\My_Shop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "My_Shop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\asp.net\\My_Shop\\My_Shop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "My_Shop\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T15:59:24.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
@@ -58,11 +76,12 @@
               "RelativeToolTip": "My_Shop\\Repository\\Components\\BrandsViewComponent.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T16:21:53.854Z"
+              "WhenOpened": "2025-06-25T16:21:53.854Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\asp.net\\My_Shop\\My_Shop\\Views\\Shared\\Components\\Categories\\Default.cshtml",
               "RelativeDocumentMoniker": "My_Shop\\Views\\Shared\\Components\\Categories\\Default.cshtml",
@@ -74,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CategoriesViewComponent.cs",
               "DocumentMoniker": "C:\\asp.net\\My_Shop\\My_Shop\\Repository\\Components\\CategoriesViewComponent.cs",
               "RelativeDocumentMoniker": "My_Shop\\Repository\\Components\\CategoriesViewComponent.cs",
@@ -86,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "_SidebarPartial.cshtml",
               "DocumentMoniker": "C:\\asp.net\\My_Shop\\My_Shop\\Views\\Shared\\_SidebarPartial.cshtml",
               "RelativeDocumentMoniker": "My_Shop\\Views\\Shared\\_SidebarPartial.cshtml",
